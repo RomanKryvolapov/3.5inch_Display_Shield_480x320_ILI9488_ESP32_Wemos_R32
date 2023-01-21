@@ -7,9 +7,9 @@
 
 // https://github.com/s60sc/Adafruit_TouchScreen
 
-// PIN 32 MUST BE CONNECTED TO PIN 36 (1)
-// PIN 33 MUST BE CONNECTED TO PIN 34
-// PIN 15 MUST BE CONNECTED TO PIN 36 (2)
+// PIN 32 MUST BE WIRED TO PIN 36 (1)
+// PIN 33 MUST BE WIRED TO PIN 34
+// PIN 15 MUST BE WIRED TO PIN 36 (2)
 
 // https://github.com/Bodmer/TFT_eSPI/blob/master/User_Setups/Setup14_ILI9341_Parallel.h
 
