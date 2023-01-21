@@ -35,7 +35,11 @@
 <p>#define SMOOTH_FONT</p>
 
 
-![1!](https://github.com/RomanKryvolapov/2.13inch_E-Ink_WeActStudio_Tricolor_SSD1680_ESP32/blob/master/Display.jpg "1")
+![1!](https://github.com/RomanKryvolapov/3.5inch_Display_Shield_480x320_ILI9488_ESP32_Wemos_R32/blob/master/Display.jpg "1")
 
-![2!](https://github.com/RomanKryvolapov/2.13inch_E-Ink_WeActStudio_Tricolor_SSD1680_ESP32/blob/master/ESP32-Pinout.png "2")
+![2!](https://github.com/RomanKryvolapov/3.5inch_Display_Shield_480x320_ILI9488_ESP32_Wemos_R32/blob/master/Board.jpg "2")
+
+![3!](https://github.com/RomanKryvolapov/3.5inch_Display_Shield_480x320_ILI9488_ESP32_Wemos_R32/blob/master/Display_pinout.jpg "3")
+
+![4!](https://github.com/RomanKryvolapov/3.5inch_Display_Shield_480x320_ILI9488_ESP32_Wemos_R32/blob/master/Board_pinout.png "4")
 
